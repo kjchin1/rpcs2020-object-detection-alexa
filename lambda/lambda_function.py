@@ -39,7 +39,7 @@ class GetMissingObjectHandler(AbstractRequestHandler):
         # url = "http://numbersapi.com/10"
         # response = requests.get(url)
         # if response.status_code == 200:
-        #     the_fact = response.text
+        #     missing_object = response.text
 
         missing_object = "keys"
         speech = ("It looks like you are missing your " + missing_object + 
