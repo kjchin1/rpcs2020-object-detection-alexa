@@ -1,0 +1,47 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "missing object",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "GetMissingObjectIntent",
+          "slots": [],
+          "samples": [
+            "give me some information",
+            "tell me what i am missing",
+            "tell me what is missing",
+            "tell me something",
+            "give me something"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "3"
+}

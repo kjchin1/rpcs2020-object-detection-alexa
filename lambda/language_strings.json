@@ -1,0 +1,12 @@
+{
+	"en": {
+		"SKILL_NAME": "Missing Object",
+		"GET_OBJECT_MESSAGE": "Here's what's missing: {}",
+		"HELP_MESSAGE": "You can say tell me what is missing, or, you can say exit... What can I help you with?",
+		"HELP_REPROMPT": "What can I help you with?",
+		"FALLBACK_MESSAGE": "The Missing Object skill can't help you with that.  It can help you find what is missing if you say tell me what is missing. What can I help you with?",
+		"FALLBACK_REPROMPT": "What can I help you with?",
+		"ERROR_MESSAGE": "Sorry, an error occurred.",
+		"STOP_MESSAGE": "Goodbye!"
+	}
+}
